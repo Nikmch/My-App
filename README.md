@@ -1,3 +1,10 @@
+MY PERSONAL SITE
+Made with Sanity.io using Next.js and Tailwind to create a headless CMS.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
