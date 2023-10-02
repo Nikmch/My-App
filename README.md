@@ -1,4 +1,4 @@
-MY PERSONAL SITE
+
 Made with Sanity.io using Next.js and Tailwind to create a headless CMS.
 
 
